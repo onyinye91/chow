@@ -1,0 +1,55 @@
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+    
+    }
+#working {
+    text-align: center;
+    }
+.how_it_works h3 {
+    text-align: center;
+    color: red;
+    }
+.how_it_works h2 {
+    color: red;
+    }
+.how_it_works p {
+    text-align: center;
+    color: red;
+    }
+.how_it_works i {
+    font-size: 50px;
+    color: black;
+    margin-left: 100px;
+    }
+
+body {
+	background-color: honeydew;
+	}
+
+#header p {
+	color: white;
+	padding-top: 20px;
+    } 
+    
+#form_location {
+	margin-top: 100px;
+	margin-left: 300px;
+	}    
+
+
+
+
+
+.foot{
+    padding: 20px;
+    margin-top: 0px;
+    color: black;
+    text-align: center;
+    background-color: bisque;
+}
+
+footer a{
+    text-decoration: none;
+} 
